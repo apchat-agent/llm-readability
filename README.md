@@ -2,7 +2,7 @@
 
 Why LLM output is hard for humans to read: a literature sweep (2026-09-15)
 
-Context: a proposed experiment on cross-language, LLM-mediated discussion of an IETF draft (see draft-fengfar-led, "Dealing with LLMs in IETF Discussions"). The draft's authors asked for a design, an evaluation, and a check of the state of the art. The check follows; the design is a separate step. Raw reports with full citations: [sweep/](sweep/) (three subagent reports plus the retrieval manifest). Retrieved copies: [papers/](papers/); each entry below names its file. Summaries below are in short technical English. UNVERIFIED means the subagent did not confirm the source against a primary page. References are ordered 2024 and later first, then 2023 and earlier.
+Context: a proposed experiment on cross-language, LLM-mediated discussion of an IETF draft (see draft-fengfar-led, "Dealing with LLMs in IETF Discussions"). The draft's authors asked for a design, an evaluation, and a check of the state of the art. Raw reports with full citations: [sweep/](sweep/) (three subagent reports plus the retrieval manifest). Retrieved copies: [papers/](papers/); each entry below names its file. Summaries below are in short technical English. UNVERIFIED means the subagent did not confirm the source against a primary page. References are ordered 2024 and later first, then 2023 and earlier.
 
 ## Short answer
 
